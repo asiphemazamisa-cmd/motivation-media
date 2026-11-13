@@ -1,1 +1,1 @@
-# motivation-media
+Media for Asiphe's motivation posts.
